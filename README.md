@@ -8,16 +8,13 @@ To generate a Hirst-like painting, follow these steps:
 
 1. Clone the repository using the following command:
    git clone https://github.com/jkk-python-projects/hirst-painting-generator.git
-   Copy
 
 2. Navigate to the cloned directory:
    cd hirst-painting-generator
-   Copy
 
 3. Run the Python script:
    python main.py
    livecodeserver
-   Copy
 
 The script will prompt you to enter the grid size (number of rows and columns), dot size, and the number of colors to use. Once the inputs are provided, the turtle graphics window will open, and the artwork will start generating.
 
